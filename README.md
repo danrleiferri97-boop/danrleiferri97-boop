@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**danrleiferri97-boop/danrleiferri97-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Danrlei Brum Ferri
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação, focado em construir uma base sólida em programação.  
+🚀 Atualmente estudando JavaScript, HTML e criando projetos práticos para evolução contínua.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Formação
+Cursando Ciência da Computação
+
+---
+
+## 🧠 Tecnologias em aprendizado
+- JavaScript  
+- HTML5  
+- CSS  
+
+---
+
+## 📌 Objetivo
+Desenvolver habilidades sólidas como programador, criando projetos reais e evoluindo diariamente na área de tecnologia.
+
+---
+
+## 📂 Projetos
+Projetos em desenvolvimento com foco em prática e evolução contínua.  
+Em breve, repositórios com aplicações reais e desafios resolvidos.
+
+---
+
+## 📫 Contato
+- Email: danrleiferri97@gmail.com  
+
+---
+
+⭐ Sempre em busca de evolução constante.
